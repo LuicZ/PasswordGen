@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
+    background-color: #1F2937;
+    color: #fff;
+}
+
+span { 
+   color:#4ADF86;
+}
+p {
+    color: #828282;
+}
+button {
+    background-color: #10B981;
+    color: white;
+}
+hr { 
+   background-color: #1F2937;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}
+#password-box {
+   border: 1px solid #273549;
+   width: 150px;
+   height: 20px;
+   border-radius: 3px;
+   margin: 20px;
+   color: #55F991;
+    
+}
+#password-display {
+      border: 1px solid #273549;
+   width: 150px;
+   height: 20px;
+   border-radius: 3px;
+    color: #55F991;
+}
+
