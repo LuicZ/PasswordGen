@@ -1,5 +1,5 @@
 # Password Generator
--- A random password generator built with HTML, CSS, and JavaScript
+- A random password generator built with HTML, CSS, and JavaScript
 ## About
 This project was created as a solo project following the Scrimba Full Path Developer Career Path. It helped with practicing JavaScript concepts like functions, arrays, and DOM manipulation.
 
@@ -16,3 +16,8 @@ This project was created as a solo project following the Scrimba Full Path Devel
 ## Future Improvements 
 - Add a password length selector 
 - Password strength detector 
+
+## Updates 
+- Centered the main focus 
+- Changed how the button displays when hovered on 
+- Rounded button
