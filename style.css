@@ -1,24 +1,7 @@
-.main {
-    width: 50%;
-    height: 50%;
-    border: 1px solid white;
-    display: flex;
-    flex-direction: column;
-    margin: 20px auto;
-    padding: 100px 60px 100px 60px;
-    background-color: #1F2937;
-}
-
 body {
     font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
-    background-color: grey;
+    background-color: #1F2937;
     color: #fff;
-}
-
-.seperator {
-    background-color: #2F3E53;
-    margin: 40px 0px 40px 0px;
-    height: 0.5px;
 }
 
 span { 
@@ -30,11 +13,6 @@ p {
 button {
     background-color: #10B981;
     color: white;
-    border-radius: 7px;
-    padding: 5px 10px;
-    border: 1px solid transparent;
-    font-size: 16px;
-    cursor: pointer;
 }
 button:hover {
     background-color: #059669;
@@ -65,4 +43,3 @@ hr {
    border-radius: 3px;
     color: #55F991;
 }
-
