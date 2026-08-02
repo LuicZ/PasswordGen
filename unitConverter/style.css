@@ -1,0 +1,60 @@
+
+.main-container {
+    margin: 20px auto;
+    width: 553.5px;
+    background-color: #6943FF;
+}
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #1C1C1C;
+}
+p {
+    color: #fff;
+}
+input {
+    width: 75px;
+   height: 50px;
+    color: #fff;
+    border: 1px solid #fff;
+    background: transparent;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+/* Target Chrome, Safari, Edge, and Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Target Firefox */
+input[type=numeric], /* fallback context if needed */
+input[type=number] {
+  -moz-appearance: textfield;
+  appearance: textfield; /* Standard property for modern browsers */
+}
+
+
+button {
+    border: 1px solid #fff;
+    border-radius:4px;
+    padding: 5px 10px;
+    background-color:#fff;
+    color: #3D3D3D;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.container {
+    background-color: #1F2937;
+    padding: 20px;
+}
+.units {
+    color: #CCC1FF;
+    background-color: #273549;
+    padding: 10px;
+    margin-bottom: 20px;
+}
